@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Pedro Henrique Lessa, tenho 20 anos e sou natural do Rio de Janeiro - RJ. Atualmente, estou cursando Engenharia de Software pela Faculdade de Informática e Administração Paulista - FIAP. Sou apaixonado por tecnologia e designer, e compartilho meu conhecimento através do meu Instagram "@eullessa" https://www.instagram.com/@eullessa)".
+Me chamo Pedro Henrique Lessa, tenho 20 anos e sou natural do Rio de Janeiro - RJ. Atualmente, estou cursando Engenharia de Software pela Faculdade de Informática e Administração Paulista - FIAP. Sou apaixonado por tecnologia e designer, e compartilho meu conhecimento através do meu Instagram "@eullessa" [https://www.instagram.com/@eullessa]".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
